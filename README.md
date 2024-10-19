@@ -36,13 +36,16 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/badrnezhad" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmk4-81&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
 ## Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mmk4.official)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mmk4_81)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmkarbalaei)
+
+
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/badrnezhad" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmk4-81&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
