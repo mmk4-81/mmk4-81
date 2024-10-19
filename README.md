@@ -10,11 +10,15 @@
     <a href='https://instagram.com/mmk4.official'>MMK DEV</a>
   </h1>
   <h3>👋 Hi, I'm Mohammad Mehdi Karbalei (MMK)<br>
-I'm a passionate Frontend Developer with expertise in React, Figma, and web design.</h3>
+🚀I'm a passionate Frontend Developer with expertise in React, Figma, and web design.</h3>
+  <!--  🖥️  See my portfolio at [mmk.com](https://mmk.com)-->
+  <p>🤝 I'm open to collaborating on interesting projects as a frontend developer.
+
+</p>
 </div>
 
 
-## My Expertise
+## Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -31,6 +35,11 @@ I'm a passionate Frontend Developer with expertise in React, Figma, and web desi
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/badrnezhad" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmk4-81&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Support Me
 
 
 ## Socials:
