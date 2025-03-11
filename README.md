@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="MMK DEV Logo" width="150px" />
+  <img src="./mmk-dev-logo.svg" alt="MMK DEV Logo" width="150px" />
 </div>
 
 <h1 align="center">Hey there! 👋 I'm Mohammad Mehdi Karbalei (MMK)</h1>
@@ -32,13 +32,14 @@
 
 ## 🌍 Connect with Me  
 <p align="center">
-  <a href="https://instagram.com/mmk4.official" style="margin-right: 15px;">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40px">
+  <a href="https://instagram.com/mmk4.official">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40px" style="margin-right: 15px;">
   </a>
-  <a href="https://t.me/mmk4_81" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" width="40px">
+  <a href="https://t.me/mmk4_81">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40px" style="margin: 0 15px;">
   </a>
-  <a href="https://www.linkedin.com/in/mmkarbalaei" style="margin-left: 15px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px">
+  <a href="https://www.linkedin.com/in/mmkarbalaei">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" style="margin-left: 15px;">
   </a>
 </p>
+
