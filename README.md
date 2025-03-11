@@ -25,7 +25,6 @@
 
 ## 📊 My GitHub Stats  
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=mmk4-81&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmk4-81&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </p>
 
@@ -36,9 +35,12 @@
   <a href="https://instagram.com/mmk4.official">
     <img src="https://skillicons.dev/icons?i=instagram" width="40px" >
   </a>
+  <a></a>  <a></a>
+
   <a href="https://t.me/mmk4_81">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40px" >
   </a>
+    <a></a>  <a></a>
   <a href="https://www.linkedin.com/in/mmkarbalaei">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px" >
   </a>
