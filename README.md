@@ -4,16 +4,15 @@
 
 <h1 align="center">Hey there! 👋 I'm Mohammad Mehdi Karbalei (MMK)</h1>
 
-<p align="center">
-🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 💡 Open to Collaboration
-</p>
+<h2 align="center">🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 💡 Open to Collaboration</h2>
 
 ---
 
-## 🚀 About Me
-💻 I'm a **passionate Frontend Developer** with a focus on **React, Next.js, and modern UI/UX design**.  
-🎨 Love turning creative ideas into **smooth, functional** web applications.  
-🤝 Always open to **collaborating** on exciting projects!  
+## 📌 About Me  
+- 💻 I'm a **passionate Frontend Developer** specializing in **React, Next.js, and modern UI/UX design**.  
+- 🎨 I love transforming creative ideas into **smooth, functional, and visually appealing** web applications.  
+- 📌 My focus is on **performance, accessibility, and stunning UI experiences**.  
+- 🤝 Always open to **collaborating** on exciting projects!  
 
 ---
 
@@ -24,15 +23,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmk4-81&show_icons=true&theme=radical" alt="GitHub Stats" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmk4-81&theme=radical" alt="GitHub Streak" width="400px"/>
-</p>
+## 📊 My GitHub Stats  
+<a href="https://github.com/mmk4-81" align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmk4-81&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect with Me  
 <p align="center">
   <a href="https://instagram.com/mmk4.official"><img src="https://skillicons.dev/icons?i=instagram" width="40px"></a>
   <a href="https://t.me/mmk4_81"><img src="https://skillicons.dev/icons?i=telegram" width="40px"></a>
