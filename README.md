@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./mmk-dev-logo.svg" alt="MMK DEV Logo" width="150px" />
-</div>
+
 
 <h1 align="center">Hey there! 👋 I'm Mohammad Mehdi Karbalei (MMK)</h1>
 
