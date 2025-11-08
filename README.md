@@ -29,7 +29,7 @@
 
 ### 🔹 Cybersecurity & Blockchain
 <p>
-  <img src="https://skillicons.dev/icons?i=python,solidity,kali,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,solidity,kali" />
 </p>
 
 ### 🔹 Tools & Platforms
