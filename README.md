@@ -1,16 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Mohammad Mehdi Karbalei</h1>
-<h3 align="center">🚀 Full-Stack Web Developer (Next.js & Node.js) | 🎨 UI/UX Designer | Always Learning</h3>
+<h3 align="center">🚀 Full-Stack Web Developer (Next.js & Node.js) | 🛡️ Cybersecurity Enthusiast | Always Learning</h3>
 
 ---
 
 ## ✨ About Me
 
-- 🔭 I’m a **full stack developer** specializing in building **modern, scalable, and high-performance** web apps  
-- ⚡ Skilled in crafting responsive UIs using **React, Next.js, and Tailwind CSS**  
-- 🧠 Backend experience with **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, **Docker**, and more  
-- 🎯 Focused on **clean code**, **user experience**, and **web performance**  
-- 🤝 Open to collaborating on interesting open-source or freelance projects  
-- I enjoy turning ideas into production-ready apps — from landing pages to full SaaS products.  
+- 🔭 I’m a **Full Stack Developer** focused on building **modern, scalable, and secure** web apps  
+- ⚡ Skilled in **React, Next.js, Tailwind CSS**, and creating responsive, user-centric UIs  
+- 🧠 Backend experience with **Node.js, Express.js, MongoDB, PostgreSQL, Docker**, and more  
+- 🛡️ Hands-on experience with **penetration testing**, **secure coding**, and **blockchain applications**  
+- 🎯 Focused on **clean code**, **web performance**, and **cybersecurity best practices**  
+- 🤝 Open to collaborating on interesting open-source, freelance, or security-focused projects  
+- I enjoy turning ideas into production-ready apps — from landing pages to full SaaS platforms, with security in mind.
 
 ---
 
@@ -26,6 +27,11 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,docker,nginx,linux" />
 </p>
 
+### 🔹 Cybersecurity & Blockchain
+<p>
+  <img src="https://skillicons.dev/icons?i=python,metasploit,wireshark,solidity" />
+</p>
+
 ### 🔹 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
@@ -35,15 +41,15 @@
 
 ## 💼 What I Can Do For You  
 
-✅ Build and deploy landing pages, dashboards, and SaaS apps  
-✅ Optimize web performance & SEO for better visibility  
-✅ Automate workflows and backend processes  
-✅ Create clean UI/UX designs and integrate them seamlessly  
+✅ Build and deploy **landing pages, dashboards, SaaS apps**, and secure web systems  
+✅ Implement **secure coding practices** and perform **penetration testing**  
+✅ Explore **blockchain solutions** for secure and transparent applications  
+✅ Optimize web performance & user experience  
 
 💡 **Typical results**:  
-- Faster launch times (MVPs in days, not weeks)  
-- SEO-friendly, responsive, and scalable apps  
-- Maintainable codebases with clear documentation  
+- Faster launch times (MVPs in days)  
+- Secure, maintainable, and scalable apps  
+- SEO-friendly and responsive web applications  
 
 ---
 
@@ -66,5 +72,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I+build+cool+frontend+UIs;I+love+full-stack+projects;Let%27s+build+something+amazing+together!;Open+to+collaboration+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I+build+secure+full-stack+apps;I+love+pentesting+and+blockchain;Let's+build+something+robust+together!;Open+to+collaboration+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
